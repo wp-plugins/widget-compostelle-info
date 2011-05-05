@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YNH5G
 Tags: iframe,widget,widget-compostelle-info, compostelle
 Requires at least: 2.3
 Tested up to: 3.1.2
-Stable tag: 1.0
+Stable tag: 1.1
 
 Ce widget permet d’afficher le flux d’articles 'Compostelle Info' dans la barre latérale d’un blog Wordpress
 
