@@ -3,7 +3,7 @@
 Plugin Name: Widget Compostelle Info
 Plugin URI: http://www.compostelleinfo.fr/integration.php#020
 Description: Ajoute une fen&ecirc;tre (iFrame) &agrave; la barre lat&eacute;rale pour afficher le flux d&rsquo;articles 'Compostelle Info'
-Version: 1.0
+Version: 1.1
 Author: Pedibus
 Author URI: http://www.compostelleinfo.fr/
 
